@@ -8,4 +8,12 @@ for i in x :
 
 print("done!")
 
+print(type(x))
+chr = print(chr(65))
+print(ord("A"))
 
+print(int(True))
+print(int(False))
+print(int('10', 8))
+print(10**10)
+print(int(100_000))
